@@ -6,7 +6,7 @@ This repository is used for improving VAPECraft's website. If you are interestin
 Copy this repositorie and edit the page, then tell us by pull requests
 
 # Info
-**<font color="red">This release is a release version, you can public it!</font>**
+**<font color="red">This release is a pre version, you cant public it!</font>**
 
 
 
@@ -22,7 +22,7 @@ Copy this repositorie and edit the page, then tell us by pull requests
 
 
 #信息
-这是个发布版本，你能私自公开它！
+这是个预发布版本，你不能私自公开它！
 
 
 

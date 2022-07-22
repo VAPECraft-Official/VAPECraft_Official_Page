@@ -69,6 +69,6 @@
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
-
+			<script src="//code.tidio.co/j02u7yyd7it7ecejc1ijgrh5a6sbycai.js" async></script>
 	</body>
 </html>

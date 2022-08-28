@@ -10,3 +10,4 @@ if ($token != "a03jdfc2ef5ff3aea7cen8hl2asse3886" or !isset($_POST['content'])) 
     file_put_contents("notice.txt", date('Y.m.d').' 公告：'.$content);
     echo json_encode(array("code" => 1, "information" => "Successfully", "state" => "successful"));
     return 1; }
+ 
